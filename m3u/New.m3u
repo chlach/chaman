@@ -1,0 +1,104 @@
+#EXTM3U                                                 
+#EXTINF:0,Aljazeera
+http://176.52.176.60/1762/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Alarabiya
+http://176.52.176.60/1771/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Alarabiya Hadath
+http://176.52.182.22/1691/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Al-Mayadeen                   
+http://176.52.176.60/1626/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,France24 Arabic                   
+http://176.52.182.22/1755/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,National Geographic HD                    
+http://176.52.176.165/2113/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,MBC Masr                      
+http://176.52.176.165/1696/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,MBC 1                    
+http://176.52.182.22/1736/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,MBC 2               
+http://176.52.182.22/1737/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,MBC 3                        
+http://176.52.182.22/1738/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,MBC 4                     
+http://176.52.182.22/1739/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,MBC Drama                        
+http://176.52.182.22/1743/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,MBC Max                      
+http://176.52.182.10/1741/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,MBC Action                        
+http://176.52.182.22/1740/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Rotana Cinema             
+http://176.52.178.3/1465/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Rotana Masriya                      
+http://176.52.178.3/1466/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Rotana Clip                         
+http://176.52.178.3/1467/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Rotana Khaligi                         
+http://176.52.178.3/1468/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Rotana Music                     
+http://176.52.178.3/1469/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Rotana Classic                        
+http://176.52.178.3/1470/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Nile Cinema
+http://176.52.182.10/3574/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Fatafeat                      
+http://176.52.176.104/1698/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Dream Tv                  
+http://176.52.182.10/3582/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Cairo Cinema                   
+http://176.52.182.10/1509/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,LBC                      
+http://176.52.182.10/1506/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Otv Lebanon
+http://176.52.178.3/1975/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Mtv Lebanon                     
+http://176.52.176.165/1750/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Aljadeed                   
+http://176.52.182.10/1753/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Future                
+http://176.52.182.22/1749/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,NBN                
+http://176.52.182.10/2100/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,ANB                  
+http://176.52.178.3/1617/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Al-Manar                    
+http://176.52.178.3/1748/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Syria                 
+http://176.52.176.165/1682/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Syria Drama                       
+http://176.52.182.22/1555/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Sama Syria                   
+http://176.52.176.165/1552/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Orient News
+http://176.52.176.60/1667/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Abu Dhabi HD                          
+http://176.52.176.60/1862/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Abu Dhabi Drama                   
+http://176.52.176.165/2087/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Abu Dhabi Sport 1              
+http://176.52.182.10/1729/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Dubai Tv                     
+http://176.52.182.22/1783/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Dubai One                  
+http://176.52.182.22/1784/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Sama Dubai                  
+http://176.52.182.22/1786/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Sharjah                 
+http://176.52.176.60/1870/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+#EXTINF:0,Dubai Sport 1                    
+http://176.52.182.22/1785/playlist.m3u8?email=chlach%40me.com&password=e0e1d64fdac4188f087c4d44060de65e
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+     
